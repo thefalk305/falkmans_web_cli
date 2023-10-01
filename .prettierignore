@@ -1,0 +1,4 @@
+# Ignore all vue files:
+**
+**/*.vue
+"prettier.disableLanguages": ["vue"]

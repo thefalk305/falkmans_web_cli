@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfalkmans_web_cli"]=self["webpackChunkfalkmans_web_cli"]||[]).push([[370],{9370:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var l=n(3396),o=n(7139),s={__name:"Places",props:{route:String,text:String},setup(e){const t=e;return console.log(t.places),console.log(t.text),console.log("hello"),(t,n)=>{const s=(0,l.up)("AppLink");return(0,l.wg)(),(0,l.iD)("li",null,[(0,l.Wm)(s,{to:e.route},{default:(0,l.w5)((()=>[(0,l.Uk)((0,o.zw)(e.text),1)])),_:1},8,["to"])])}}};const u=s;var c=u}}]);
+//# sourceMappingURL=370.2a769b6b.js.map
